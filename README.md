@@ -1,1 +1,3 @@
-Proyecto para el entrenamiento de GitHub.
+# Entrenamiento con GitHub
+
+Repositorio dedicado a fortalecer mis conocimientos en **GitHub**. 
