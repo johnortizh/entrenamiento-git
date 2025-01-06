@@ -1,1 +1,1 @@
-Proyecto para el entrenamiento de Git y GitHub
+Proyecto para el entrenamiento de Git y GitHub.
